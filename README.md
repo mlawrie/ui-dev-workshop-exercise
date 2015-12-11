@@ -7,9 +7,10 @@
 
 then open [http://localhost:8080/workshop/workshop.html](http://localhost:8080/workshop/workshop.html) in a browser.
 
-# Rules of the game
-- you **may not** edit the structure of the html, but you **may** add attributes to elements *if* you feel that is necessary.
-- all your changes should be restricted to stylesheet.less (and workshop.html for adding attributes).
+# Instructions
+- you **may not** edit the overall structure of the html, but you can and should add classes or other attributes to the elements as you see fit.
+- all your changes should be restricted to stylesheet.less and workshop.html.
+- we've included Less, a CSS preprocessor. If you're unfamiliar with it, don't worry. It's not needed to complete the exercise. All valid CSS is valid Less.
 
 # Iteration One
 ## Requirements
